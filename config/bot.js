@@ -9,7 +9,7 @@ module.exports = {
     },
 
     discord: {
-	token: 'ODg3NzM2NDEzNjk1NjY4MjU0.YUIe9g.lXqKiJ-vUwmxqnPNEV8fWVxYPjo',
+	token: 'YOUR TOKEN',
         prefix: 'sh!',
         activity: 'Scarlaid',
     },
